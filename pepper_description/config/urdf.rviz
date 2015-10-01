@@ -56,7 +56,43 @@ Visualization Manager:
       Enabled: true
       Links:
         All Links Enabled: true
+        BumperB_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        BumperFL_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        BumperFR_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        CameraBottom_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        CameraBottom_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        CameraDepth_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        CameraDepth_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
         CameraTop_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        CameraTop_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        ChestButton_frame:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -68,6 +104,39 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
+        HeadTouchFront_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        HeadTouchMiddle_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        HeadTouchRear_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        Hip:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ImuBaseAccelerometer_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        ImuBaseGyrometer_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        ImuTorsoAccelerometer_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        ImuTorsoGyrometer_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
         LBicep:
           Alpha: 1
           Show Axes: false
@@ -77,37 +146,63 @@ Visualization Manager:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        LFeet:
+          Value: true
+        LFinger11_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LFinger11:
+        LFinger12_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LFinger12:
+        LFinger13_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LFinger13:
+        LFinger21_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LFinger21:
+        LFinger22_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LFinger22:
+        LFinger23_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LFinger23:
+        LFinger31_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        LFinger32_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        LFinger33_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        LFinger41_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        LFinger42_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        LFinger43_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -117,47 +212,36 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        LHip:
+        LHandTouchBack_frame:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-          Value: true
-        LPelvis:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         LShoulder:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LSonar:
+        LSpeaker_frame:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        LThigh:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        LThumb1:
+        LThumb1_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LThumb2:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        LTibia:
+        LThumb2_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
         Link Tree Style: Links in Alphabetic Order
         Neck:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        Pelvis:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -171,37 +255,63 @@ Visualization Manager:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        RFeet:
+          Value: true
+        RFinger11_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RFinger11:
+        RFinger12_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RFinger12:
+        RFinger13_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RFinger13:
+        RFinger21_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RFinger21:
+        RFinger22_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RFinger22:
+        RFinger23_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RFinger23:
+        RFinger31_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        RFinger32_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        RFinger33_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        RFinger41_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        RFinger42_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        RFinger43_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -211,63 +321,106 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        RHip:
+        RHandTouchBack_frame:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-          Value: true
-        RPelvis:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         RShoulder:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RSonar:
+        RSpeaker_frame:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        RThigh:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        RThumb1:
+        RThumb1_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RThumb2:
+        RThumb2_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        RTibia:
+        ShovelLaser_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SonarBack_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SonarFront_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SurroundingFrontLaser_device_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SurroundingFrontLaser_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SurroundingLeftLaser_device_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SurroundingLeftLaser_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SurroundingRightLaser_device_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        SurroundingRightLaser_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        Tablet_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        Tibia:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
+        VerticalLeftLaser_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        VerticalRightLaser_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        WheelB_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        WheelFL_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        WheelFR_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        base_footprint:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
         base_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        gaze:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-        l_ankle:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         l_gripper:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-        l_sole:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -276,16 +429,7 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        r_ankle:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         r_gripper:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-        r_sole:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -310,101 +454,171 @@ Visualization Manager:
       Frame Timeout: 15
       Frames:
         All Enabled: true
+        BumperB_frame:
+          Value: true
+        BumperFL_frame:
+          Value: true
+        BumperFR_frame:
+          Value: true
+        CameraBottom_frame:
+          Value: true
+        CameraBottom_optical_frame:
+          Value: true
+        CameraDepth_frame:
+          Value: true
+        CameraDepth_optical_frame:
+          Value: true
         CameraTop_frame:
           Value: true
+        CameraTop_optical_frame:
+          Value: true
+        ChestButton_frame:
+          Value: true
         Head:
+          Value: true
+        HeadTouchFront_frame:
+          Value: true
+        HeadTouchMiddle_frame:
+          Value: true
+        HeadTouchRear_frame:
+          Value: true
+        Hip:
+          Value: true
+        ImuBaseAccelerometer_frame:
+          Value: true
+        ImuBaseGyrometer_frame:
+          Value: true
+        ImuTorsoAccelerometer_frame:
+          Value: true
+        ImuTorsoGyrometer_frame:
           Value: true
         LBicep:
           Value: true
         LElbow:
           Value: true
-        LFeet:
+        LFinger11_link:
           Value: true
-        LFinger11:
+        LFinger12_link:
           Value: true
-        LFinger12:
+        LFinger13_link:
           Value: true
-        LFinger13:
+        LFinger21_link:
           Value: true
-        LFinger21:
+        LFinger22_link:
           Value: true
-        LFinger22:
+        LFinger23_link:
           Value: true
-        LFinger23:
+        LFinger31_link:
+          Value: true
+        LFinger32_link:
+          Value: true
+        LFinger33_link:
+          Value: true
+        LFinger41_link:
+          Value: true
+        LFinger42_link:
+          Value: true
+        LFinger43_link:
           Value: true
         LForeArm:
           Value: true
-        LHip:
-          Value: true
-        LPelvis:
+        LHandTouchBack_frame:
           Value: true
         LShoulder:
           Value: true
-        LSonar:
+        LSpeaker_frame:
           Value: true
-        LThigh:
+        LThumb1_link:
           Value: true
-        LThumb1:
-          Value: true
-        LThumb2:
-          Value: true
-        LTibia:
+        LThumb2_link:
           Value: true
         Neck:
+          Value: true
+        Pelvis:
           Value: true
         RBicep:
           Value: true
         RElbow:
           Value: true
-        RFeet:
+        RFinger11_link:
           Value: true
-        RFinger11:
+        RFinger12_link:
           Value: true
-        RFinger12:
+        RFinger13_link:
           Value: true
-        RFinger13:
+        RFinger21_link:
           Value: true
-        RFinger21:
+        RFinger22_link:
           Value: true
-        RFinger22:
+        RFinger23_link:
           Value: true
-        RFinger23:
+        RFinger31_link:
+          Value: true
+        RFinger32_link:
+          Value: true
+        RFinger33_link:
+          Value: true
+        RFinger41_link:
+          Value: true
+        RFinger42_link:
+          Value: true
+        RFinger43_link:
           Value: true
         RForeArm:
           Value: true
-        RHip:
-          Value: true
-        RPelvis:
+        RHandTouchBack_frame:
           Value: true
         RShoulder:
           Value: true
-        RSonar:
+        RSpeaker_frame:
           Value: true
-        RThigh:
+        RThumb1_link:
           Value: true
-        RThumb1:
+        RThumb2_link:
           Value: true
-        RThumb2:
+        ShovelLaser_frame:
           Value: true
-        RTibia:
+        SonarBack_frame:
+          Value: true
+        SonarFront_frame:
+          Value: true
+        SurroundingFrontLaser_device_frame:
+          Value: true
+        SurroundingFrontLaser_frame:
+          Value: true
+        SurroundingLeftLaser_device_frame:
+          Value: true
+        SurroundingLeftLaser_frame:
+          Value: true
+        SurroundingRightLaser_device_frame:
+          Value: true
+        SurroundingRightLaser_frame:
+          Value: true
+        Tablet_frame:
+          Value: true
+        Tibia:
+          Value: true
+        VerticalLeftLaser_frame:
+          Value: true
+        VerticalRightLaser_frame:
+          Value: true
+        WheelB_link:
+          Value: true
+        WheelFL_link:
+          Value: true
+        WheelFR_link:
+          Value: true
+        base_footprint:
           Value: true
         base_link:
           Value: true
-        gaze:
-          Value: true
-        l_ankle:
-          Value: true
         l_gripper:
-          Value: true
-        l_sole:
           Value: true
         l_wrist:
           Value: true
-        r_ankle:
+        odom:
           Value: true
         r_gripper:
-          Value: true
-        r_sole:
           Value: true
         r_wrist:
           Value: true
@@ -416,69 +630,137 @@ Visualization Manager:
       Show Axes: true
       Show Names: true
       Tree:
-        base_link:
-          torso:
-            LPelvis:
-              LHip:
-                LThigh:
-                  LTibia:
-                    l_ankle:
-                      LFeet:
-                        l_sole:
+        odom:
+          base_link:
+            torso:
+              ChestButton_frame:
+                {}
+              Hip:
+                Pelvis:
+                  Tibia:
+                    BumperB_frame:
+                      {}
+                    BumperFL_frame:
+                      {}
+                    BumperFR_frame:
+                      {}
+                    ImuBaseAccelerometer_frame:
+                      {}
+                    ImuBaseGyrometer_frame:
+                      {}
+                    ShovelLaser_frame:
+                      {}
+                    SonarBack_frame:
+                      {}
+                    SonarFront_frame:
+                      {}
+                    SurroundingFrontLaser_device_frame:
+                      {}
+                    SurroundingFrontLaser_frame:
+                      {}
+                    SurroundingLeftLaser_device_frame:
+                      {}
+                    SurroundingLeftLaser_frame:
+                      {}
+                    SurroundingRightLaser_device_frame:
+                      {}
+                    SurroundingRightLaser_frame:
+                      {}
+                    VerticalLeftLaser_frame:
+                      {}
+                    VerticalRightLaser_frame:
+                      {}
+                    WheelB_link:
+                      {}
+                    WheelFL_link:
+                      {}
+                    WheelFR_link:
+                      {}
+                    base_footprint:
+                      {}
+              ImuTorsoAccelerometer_frame:
+                {}
+              ImuTorsoGyrometer_frame:
+                {}
+              LShoulder:
+                LBicep:
+                  LElbow:
+                    LForeArm:
+                      l_wrist:
+                        LFinger11_link:
+                          LFinger12_link:
+                            LFinger13_link:
+                              {}
+                        LFinger21_link:
+                          LFinger22_link:
+                            LFinger23_link:
+                              {}
+                        LFinger31_link:
+                          LFinger32_link:
+                            LFinger33_link:
+                              {}
+                        LFinger41_link:
+                          LFinger42_link:
+                            LFinger43_link:
+                              {}
+                        LHandTouchBack_frame:
                           {}
-            LShoulder:
-              LBicep:
-                LElbow:
-                  LForeArm:
-                    l_wrist:
-                      LFinger11:
-                        LFinger12:
-                          LFinger13:
+                        LThumb1_link:
+                          LThumb2_link:
                             {}
-                      LFinger21:
-                        LFinger22:
-                          LFinger23:
-                            {}
-                      LThumb1:
-                        LThumb2:
+                        l_gripper:
                           {}
-                      l_gripper:
-                        {}
-            LSonar:
-              {}
-            Neck:
-              Head:
-                CameraTop_frame:
-                  gaze:
+              Neck:
+                Head:
+                  CameraBottom_frame:
+                    CameraBottom_optical_frame:
+                      {}
+                  CameraDepth_frame:
+                    CameraDepth_optical_frame:
+                      {}
+                  CameraTop_frame:
+                    CameraTop_optical_frame:
+                      {}
+                  HeadTouchFront_frame:
                     {}
-            RPelvis:
-              RHip:
-                RThigh:
-                  RTibia:
-                    r_ankle:
-                      RFeet:
-                        r_sole:
+                  HeadTouchMiddle_frame:
+                    {}
+                  HeadTouchRear_frame:
+                    {}
+                  LSpeaker_frame:
+                    {}
+                  RSpeaker_frame:
+                    {}
+              RShoulder:
+                RBicep:
+                  RElbow:
+                    RForeArm:
+                      r_wrist:
+                        RFinger11_link:
+                          RFinger12_link:
+                            RFinger13_link:
+                              {}
+                        RFinger21_link:
+                          RFinger22_link:
+                            RFinger23_link:
+                              {}
+                        RFinger31_link:
+                          RFinger32_link:
+                            RFinger33_link:
+                              {}
+                        RFinger41_link:
+                          RFinger42_link:
+                            RFinger43_link:
+                              {}
+                        RHandTouchBack_frame:
                           {}
-            RShoulder:
-              RBicep:
-                RElbow:
-                  RForeArm:
-                    r_wrist:
-                      RFinger11:
-                        RFinger12:
-                          RFinger13:
+                        RThumb1_link:
+                          RThumb2_link:
                             {}
-                      RFinger21:
-                        RFinger22:
-                          RFinger23:
-                            {}
-                      RThumb1:
-                        RThumb2:
+                        r_gripper:
                           {}
-                      r_gripper:
-                        {}
-            RSonar:
-              {}
+              Tablet_frame:
+                {}
       Update Interval: 0
       Value: true
   Enabled: true
@@ -539,4 +821,4 @@ Window Geometry:
     collapsed: false
   Width: 1200
   X: 55
-  Y: 40
+  Y: 30
